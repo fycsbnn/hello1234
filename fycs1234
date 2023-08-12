@@ -1,0 +1,3 @@
+str1"sara"
+str2"thakur"
+print(str1,str2)
